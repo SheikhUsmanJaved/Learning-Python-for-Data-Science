@@ -1,4 +1,5 @@
-# Steps:
+# Steps for Data Wrangling
+
 1. Gathering the data
 2. Assessing the data (EDA)
 3. Cleaning the data
@@ -19,4 +20,4 @@
    1. Columns creation
    2. Renaming
    3. Renaming jis ki sense banay
-7. Saving the data to be used
+7. Saving the data baad ma istemal k liye
